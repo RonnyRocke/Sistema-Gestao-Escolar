@@ -8,21 +8,17 @@ Clone o Repositório:
 
 Execute o seguinte comando no terminal para clonar o repositório para o seu ambiente local:
 
-bash
-Copy code
+```bash
+# Clone o Repositório:
 git clone https://github.com/RonnyRocke/Sistema-de-Gestao-Escolar.git
-Compilação:
 
-Navegue até o diretório do projeto clonado e compile todas as classes do projeto utilizando o comando:
-
-Copy code
+# Compilação:
 javac *.java
-Execução:
 
-Execute o arquivo SistemaEscolar.class utilizando o comando:
-
-Copy code
+# Execução:
 java SistemaEscolar
+```
+
 Interagindo:
 
 
